@@ -10,7 +10,7 @@ function App(props) {
     <div className="App">
       <header className="App-header">
         <h1>{props.name}</h1>
-        <div class="g-signin2" data-onsuccess="onSignIn">hello</div>
+        <div class="g-signin2" data-onsuccess="onSignIn"></div>
       </header>
       <body className="App-body">  
         
